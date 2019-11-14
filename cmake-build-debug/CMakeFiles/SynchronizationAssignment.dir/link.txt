@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SynchronizationAssignment.dir/main.c.o CMakeFiles/SynchronizationAssignment.dir/pizza.c.o  -o SynchronizationAssignment 

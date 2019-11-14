@@ -1,0 +1,3 @@
+/home/nelson/CLionProjects/SynchronizationAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nelson/CLionProjects/SynchronizationAssignment/cmake-build-debug/CMakeFiles/SynchronizationAssignment.dir
+/home/nelson/CLionProjects/SynchronizationAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
